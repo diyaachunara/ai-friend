@@ -39,7 +39,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yxshhx/ai-friend.git
+git clone https://github.com/diyaachunara/ai-friend.git
 cd ai-friend
 ```
 
@@ -105,9 +105,3 @@ In a world where people often feel isolated, AI Friend serves as a comforting di
 ## 📝 License
 
 MIT License. Feel free to fork and build on top of it. Contributions welcome!
-
----
-
-## 🙋‍♂️ Author
-
-Made with ❤️ by [Yash Solanki](https://github.com/yxshhx)
