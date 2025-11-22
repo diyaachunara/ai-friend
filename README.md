@@ -2,7 +2,8 @@
 # 🤖 AI Friend
 
 **AI Friend** is an emotionally intelligent AI companion that recognizes your facial expressions and responds empathetically using advanced conversational AI. It aims to support users dealing with loneliness, anxiety, or difficulty expressing emotions by providing a comforting and interactive experience.
-**This project is created as our final year CSE group project, focusing on building an emotionally intelligent AI system that interacts with users in real time.
+
+This project is created as our final year CSE group project, focusing on building an emotionally intelligent AI system that interacts with users in real time.
 
 ---
 
